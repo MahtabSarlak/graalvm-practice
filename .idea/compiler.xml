@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="graalvm_practice" target="6" />
+      <module name="graalvm_practice" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

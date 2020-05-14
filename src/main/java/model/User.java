@@ -1,15 +1,17 @@
+package model;
 
-public class User {
+import java.util.HashMap;
+
+public class User{
     public String firstName;
     public String lastName;
     public String userName;
     public String password;
     public String email;
 
-
     @Override
     public String toString() {
-        return "User{" +
+        return "model.User{" +
                 "firstName='" + firstName + '\'' +
                 ", lastName='" + lastName + '\'' +
                 ", userName='" + userName + '\'' +
